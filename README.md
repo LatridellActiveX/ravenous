@@ -1,3 +1,3 @@
 # Practice Project from Codecademy
 
-Practicing using flex to evently space components and elements
+Practicing using flex to evenly space components and elements
