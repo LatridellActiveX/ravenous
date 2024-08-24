@@ -28,7 +28,7 @@ export const Business = ({img = [PizzaImg], name = "businessName", address = "ad
         <div style={{flex: 1, textAlign: 'right', display: 'flex', flexDirection: 'column', gap: 5}}>
           <h3 style={{color: '#f2c933', flex: .5}}>{type}</h3>
           <h4 style={{color: '#f2c933', flex: .5}}>{rating}</h4>
-          <p style={{flex: .5}}>{reviewCount}</p>
+          <p style={{flex: .5}}>{reviewCount} Reviews</p>
         </div>
       </div>
     </div>
